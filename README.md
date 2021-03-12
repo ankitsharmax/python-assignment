@@ -8,7 +8,6 @@ Ankit Sharma
     * * *
   * * * *
 * * * * *
-
 ```
 
 ### patternAlphabets.py
@@ -19,7 +18,6 @@ B C
 D E F
 G H I J
 K L M N O
-
 ```
 
 ### grocery.py
